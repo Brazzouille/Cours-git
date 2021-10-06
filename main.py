@@ -6,3 +6,7 @@ print("Tu as (age) ")
 
 test beug 2
 test beug
+
+
+age = inpuy()
+print("tu habites")
