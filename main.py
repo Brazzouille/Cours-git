@@ -3,3 +3,5 @@ print("hello (name)" )
 
 age = input()
 print("Tu as (age) ")
+
+test beug
