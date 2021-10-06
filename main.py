@@ -1,2 +1,5 @@
 name = input()
-print(hello{ name})
+print(f "hello (name)")
+
+age = input()
+print(f " Tu as (age)")
