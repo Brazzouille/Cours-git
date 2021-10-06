@@ -10,3 +10,6 @@ test beug
 
 age = inpuy()
 print("tu habites")
+
+
+2eme test 
