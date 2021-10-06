@@ -12,4 +12,5 @@ age = inpuy()
 print("tu habites")
 
 
-2eme test 
+2eme test
+3 eme test 
