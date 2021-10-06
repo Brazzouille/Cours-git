@@ -1,3 +1,5 @@
 name = input()
-print(hello{ name})
-hello world
+print("hello (name)" )
+
+age = input()
+print("Tu as (age) ")
