@@ -1,5 +1,5 @@
 name = input()
-print(f "hello (name)")
+print("hello (name)" )
 
 age = input()
-print(f " Tu as (age)")
+print("Tu as (age) ")
